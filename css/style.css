@@ -261,7 +261,7 @@ nav a:hover {
     margin-top: 50px;
 }
 
-.catalog-info h3 {
+.catalog-info .name-bag {
     color: white;
     font-family: 'BoomBoom';
     font-size: 30px;
