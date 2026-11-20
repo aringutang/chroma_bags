@@ -97,7 +97,7 @@ nav a:hover {
 
 .banner h1 {
     padding-top: 90px;
-    letter-spacing: 20%;
+    letter-spacing: 0.2em;
     font-size: 72px;
     font-family: 'Manrope';
     color: #171719;
